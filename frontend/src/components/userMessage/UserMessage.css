@@ -1,0 +1,15 @@
+.user-message {
+    padding: 12px 0;
+}
+.user-message .response-wrapper {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+}
+.user-message .response-wrapper .message-icon {
+    width: 25px;
+    height: 25px;
+}
+.user-message .response-wrapper .message-content {
+    margin: 0 0 0 20px;
+}

@@ -1,0 +1,64 @@
+body {
+  background: #cfcfcf;
+}
+.navbar {
+  background-color: #1e2529;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.logo-icon {
+  width: 25px;
+  height: auto;
+  margin-right: 8px;
+}
+.conversation {
+  margin-bottom: 60px;
+}
+.text-field {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.text-field form{
+  display: flex;
+  align-items: center;
+  width: 50%;
+  padding: 10px 15px;
+  margin: 0 auto 10px;
+  border-radius: 10px;
+  border: 1px solid #000;
+  background: #cfcfcf;
+  box-shadow: 1px 1px 0 0 #000;
+}
+.text-field form input{
+  background: none;
+  border: none;
+  flex-grow: 1;
+}
+.text-field form input:focus{
+  border: none;
+  outline: none;
+}
+.text-field button {
+  border: none;
+  background: none;
+  padding: 0;
+  display: flex;
+}
+.response_wraper {
+  white-space: pre-wrap;
+}
+
+.text-field .send-icon {
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
