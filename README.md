@@ -1,2 +1,2 @@
 # Darija-Chatbot
-this project is under development.
+this project is still under development.
