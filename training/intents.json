@@ -1,0 +1,18 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["salam", "fen asat", "cc","fen akhay robot","wach assi chataek"]
+        },
+        {"tag": "goodbye",
+         "patterns": ["bye", "bslama", "lai3awn", "yalah tla7", "nchofok"]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "merci", "chokran", "lay7afdek", "l3fo", "lah ir7em lwalidin"]
+        },
+        {"tag": "whatcanido",
+         "patterns": ["ach kat9der dir", "achnahoma l7wayej li kat3ref kadir", "ach kat3ref dir"]
+        },
+        {"tag": "whoami",
+         "patterns": ["chkon nta asat", "3ref rasek", "who are you", "achno nta"]
+        }
+   ]
+}

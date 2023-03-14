@@ -1,0 +1,19 @@
+.questions-menu {
+    position: absolute;
+    top: 125%;
+    right: 10px;
+    width: 450px;
+    padding: 15px;
+    background: #1e2529;
+    border-radius: 10px;
+    color: #fff;
+    display: none;
+}
+.questions-menu .alert span {
+    color: #f77;
+}
+.questions-menu .questions {
+    list-style-type: auto;
+    margin: 10px 0;
+    padding-left: 25px;
+}

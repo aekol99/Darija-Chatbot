@@ -1,23 +1,6 @@
 body {
   background: #cfcfcf;
 }
-.navbar {
-  background-color: #1e2529;
-  display: flex;
-  justify-content: center;
-  padding: 10px 0;
-}
-.navbar a {
-  color: #fff;
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-}
-.logo-icon {
-  width: 25px;
-  height: auto;
-  margin-right: 8px;
-}
 .conversation {
   margin-bottom: 60px;
 }
